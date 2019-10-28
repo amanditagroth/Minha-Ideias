@@ -28,7 +28,7 @@ nome, país onde reside, idiomas faladas,os cinco ou mais assuntos interessados 
 
 
 
-[Rastreamento manual no dispositivo em tempo real com o MediaPipe](https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html)
+[MediaPipe](https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html)
 
 [SignAll](https://techcrunch.com/2018/02/14/signall-is-slowly-but-surely-building-a-sign-language-translation-platform/)
 
