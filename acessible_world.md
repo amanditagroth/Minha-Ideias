@@ -32,5 +32,4 @@ nome, país onde reside, idiomas faladas,os cinco ou mais assuntos interessados 
 
 [SignAll](https://techcrunch.com/2018/02/14/signall-is-slowly-but-surely-building-a-sign-language-translation-platform/)
 
-[Variações de ações faciais durante jogos com CONFERÊNCIA DE indução de tédio e estresse. Projeto desenvolvido pelo Mestre Fernando Bevilacqua]
-(https://www.fernandobevilacqua.com/academic/publications/)
+[Variações de ações faciais durante jogos com CONFERÊNCIA DE indução de tédio e estresse. Projeto desenvolvido pelo Mestre Fernando Bevilacqua](https://www.fernandobevilacqua.com/academic/publications/)
