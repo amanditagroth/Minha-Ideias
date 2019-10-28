@@ -12,7 +12,7 @@ e no chat. E nesta rede social que permita comunicar com facilidade com estangei
 estrangeiros para conversar e sim escolhemos para conversar nos assuntos interessados. Dessa tecnologia mais
 acessível que permita conversar em língua de sinais via webcam ou "vídeochamada". Porém o algoritmos deverá traduzir
 automáticamente para sua própria língua de sinais para a língua do estrangeiro.
-Que neste algoritmo possa ser feito com outros projetos feitos pelo [MediaPipe](https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html); [SignAll](https://techcrunch.com/2018/02/14/signall-is-slowly-but-surely-building-a-sign-language-translation-platform/); [Variações de ações faciais durante jogos com CONFERÊNCIA DE indução de tédio e estresse. Projeto desenvolvido pelo Mestre Fernando Bevilacqua](https://www.fernandobevilacqua.com/academic/publications/).
+Que neste algoritmo possa ser feito como outros projetos:[MediaPipe](https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html); [SignAll](https://techcrunch.com/2018/02/14/signall-is-slowly-but-surely-building-a-sign-language-translation-platform/); [Variações de ações faciais durante jogos com CONFERÊNCIA DE indução de tédio e estresse. Projeto desenvolvido pelo Mestre Fernando Bevilacqua](https://www.fernandobevilacqua.com/academic/publications/).
 
 ## Objetivos Específicos
 
