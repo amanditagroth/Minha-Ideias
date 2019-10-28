@@ -1,13 +1,15 @@
 # Uma rede social - Acessible for World!
 
-É muito legal conectar com outras pessoas neste mundo maravilhoso e com acessibilidade!
+É muito legal conectar com outras pessoas neste mundo maravilhoso e com acessibilidade incrível!
 Então, vamos fazer amigos ao redor do mundo?
 
 ## Objetivos Gerais
 
 Para conectar com as diversas pessoas neste mundo é preciso ser mais acessível, como tanto para pessoas
-ouvintes, surdos e cegos. Sempre falta acessibilidade neste mundo.
-Então pra conhecer mais o mundo lindo e maravilhoso, usaremos um algoritmos que permite fazer vídeochamada
+ouvintes, surdos e cegos. É lamentável que as pessoas surdas acabam ficando para atrás, pois sempre falta
+acessibilidade neste mundo, então vamos evitar no possível de faltar acessibilidade!
+<br>
+Então pra conhecer mais o mundo lindo e maravilhoso, usaremos um algoritmo que permite fazer vídeochamada
 e no chat. E nesta rede social que permita comunicar com facilidade com estangeiros desde que a gente não escolhe
 estrangeiros para conversar e sim escolhemos para conversar nos assuntos interessados. Dessa tecnologia mais
 acessível que permita conversar em língua de sinais via webcam ou "vídeochamada". Porém o algoritmos deverá traduzir
