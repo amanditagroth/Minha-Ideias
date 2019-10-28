@@ -6,29 +6,18 @@ Então, vamos fazer amigos ao redor do mundo?
 ## Objetivos Gerais
 
 Para conectar com as diversas pessoas neste mundo é preciso ser mais acessível, como tanto para pessoas
-ouvintes, surdos e cegos. É lamentável que as pessoas surdas acabam ficando para atrás, pois sempre falta
+ouvintes, surdos e cegos. É lamentável que muitas vezes as pessoas surdas e cegas acabam ficando para atrás e sempre falta
 acessibilidade neste mundo, então vamos evitar no possível de faltar acessibilidade!
-<br>
-Então pra conhecer mais o mundo lindo e maravilhoso, usaremos um algoritmo que permite fazer vídeochamada
-e no chat. E nesta rede social que permita comunicar com facilidade com estangeiros desde que a gente não escolhe
+Então pra conhecer mais o mundo lindo e maravilhoso, usaremos um algoritmo que permite fazer vídeo chamada
+e chat. E nesta rede social que permita comunicar com facilidade com estangeiros desde que as pessoas não escolhe
 estrangeiros para conversar e sim escolhemos para conversar nos assuntos interessados. Dessa tecnologia mais
-acessível que permita conversar em língua de sinais via webcam ou "vídeochamada". Porém o algoritmos deverá traduzir
-automáticamente para sua própria língua de sinais para a língua do estrangeiro.
-Que neste algoritmo possa ser feito como outros projetos:[MediaPipe](https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html); [SignAll](https://techcrunch.com/2018/02/14/signall-is-slowly-but-surely-building-a-sign-language-translation-platform/); [Variações de ações faciais durante jogos com CONFERÊNCIA DE indução de tédio e estresse. Projeto desenvolvido pelo Mestre Fernando Bevilacqua](https://www.fernandobevilacqua.com/academic/publications/).
+acessível que permita conversar em língua de sinais via webcam(vídeo chamada). Porém o algoritmo deverá traduzir
+automáticamente para língua do estrangeiro de forma em legenda e em audidescrição.
+Que neste algoritmo possa ser feito ou vinculado com outros projetos, como:[MediaPipe](https://ai.googleblog.com/2019/08/on-device-real-time-hand-tracking-with.html); [SignAll](https://techcrunch.com/2018/02/14/signall-is-slowly-but-surely-building-a-sign-language-translation-platform/); [Variações de ações faciais durante jogos com CONFERÊNCIA DE indução de tédio e estresse.(Projeto desenvolvido pelo Mestre Fernando Bevilacqua)](https://www.fernandobevilacqua.com/academic/publications/).
 
-## Objetivos Específicos
+## Objetivos Específicos e como deve ser o nosso algoritmo
 
-- O algoritmo deve ser parecido com a rede social como o [WhatsApp](https://web.whatsapp.com/), porém somente chat, informações pessoal seria somente:
-nome, país onde reside, idiomas faladas,os cinco ou mais assuntos interessados e citação sobre o que espera dessa rede social;
+- O algoritmo deve ser parecido com a rede social como o [WhatsApp](https://web.whatsapp.com/), porém somente chat, informações pessoal seria como:nome, país de onde reside, idiomas faladas(inclusive língua de sinais),os cinco ou mais assuntos interessados e citação sobre o que espera dessa rede social;
+- No chat tenha tradução automática de língua estrangeira para outra língua;
+- No vídeo chamada, tenha tradução automática da língua estrangeira para outra língua. Traduzir em texto como legenda e com áudiodescrição;
 - 
-
-
-
-
-
-
-
-
-
-
-
